@@ -1,5 +1,7 @@
 # Challenge-1
 
+* Solution fot this challenge can be found at [Challenge-1](https://github.com/devendradhanal/support-challenge-1)
+
 ### Process to figure out a solution
 
 ##### Key points to note:
