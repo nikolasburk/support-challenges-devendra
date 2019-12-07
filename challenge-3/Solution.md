@@ -1,6 +1,8 @@
 # Challenge-3
 
 
+* Solution fot this challenge can be found at [Challenge-3](https://github.com/devendradhanal/support-challenge-3)
+
 ### Process to figure out a solution
 
 Key points to note:
