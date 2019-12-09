@@ -1,12 +1,9 @@
-Hey @username, Prisma2's (Prisma Framework ) Lift supports extending the migration workflow with before and after hooks with custom script where
-we can handle such scenarions.
+Hey @username, Prisma2's (Prisma Framework) Lift supports extending the migration workflow with before and after hooks with custom script where we can handle such scenarios.
 
-The faeature however is still in developement and you can expect it very soon.
+The feature however is still in development and you can expect it very soon.
 
-Meanwhile We would like to suggest a workaround.
+Meanwhile we would like to suggest a workaround with following steps:
 
-
-Steps:
 1. Run `npx prisma2 dev`
 2. Add `firstName` and `lastName` as nullable fields in the `prisma/schema.prisma`
 
@@ -29,6 +26,7 @@ model User {
 }
 ``` 
 and save the file.
+
 Prisma will run the migration and will add the firstName field for all users in the db
 
 2.2. Similarly repeat for `lastName` field as below
@@ -52,6 +50,7 @@ model User {
 
 ```
 and save the file. 
+
 After Prisma runs the migration your db will have `firstName` and `lastName` fields for all users in the db
 
 
@@ -107,11 +106,11 @@ main()
  ``` 
  
 4. Now you can either keep the name field if you want Or
-	you can  delete it from `prisma/schema.prisma` while running in dev mode where Prisma will ask whether you would like to remove the name field which will delete the `name` columd from db.
+	you can  delete it from `prisma/schema.prisma` while running in dev mode where Prisma will ask whether you would like to remove the name field which will delete the `name` column from db.
 
 5. Now as per your schema requirement you can either keep the first and last name fields as optional or simply make them required by modifying `prisma/schema.prisma` and save the file.
 
 
 And yes you still can use Prisma after this :)
 
-Hope this helps and please feel free to reach out in case you need any further asistance.
+Hope this helps and please feel free to reach out in case you need any further assistance.
