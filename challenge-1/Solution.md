@@ -1,14 +1,14 @@
 # Challenge-1
 
-* Solution fot this challenge can be found at [Challenge-1](https://github.com/devendradhanal/support-challenge-1)
+* Solution for this challenge can be found at [Challenge-1](https://github.com/devendradhanal/support-challenge-1)
 
 ### Process to figure out a solution
 
 ##### Key points to note:
-- User upgraded the Prisma2 version to preivew016 which is like to have some breaking changes since it's in preview mode
+- User upgraded the Prisma2 version to `preview016` which is like to have some breaking changes since it's in preview mode
 - The `prisma2 dev` command internally runs `prisma2 generate` and `prisma2 lift save`, `prisma2 lift up` but among these commands `prisma2 generate` is also fired as part of `postinstall` and there the project didn't run into an error. So basically Photon is not the issue here. 
 - And more clearly it's stated in the error log that it has something to do with migration steps.
-- In such cases, we must refer to release notes or changelogs
+- In such cases, we must refer to release notes or change logs
 - Found the exact error description as of this project issue in release notes of preview-016 and the solution as well.
 
 #### Solution:
