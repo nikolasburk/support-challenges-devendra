@@ -5,28 +5,26 @@
 ### Problem: Strong language
 
 #### Message to the original poster:
-	- Hey @username, I would like to have a word(or discuss with you regarding this post , can refer a post if the platform allows , in case of Slack we can )
-	- Thank you for taking the time to share your views on how useful Prisma is for you.
-	- We appriciate your enthusiam for the same but at the same time as our mission is to create and maintain inclusive, welcoming Prisma community we would really appreciate you refrain from using the strong language in your posts.
-	- Please join us in achieving these standard. ( Or like ask them that as he/she is part of the community now its their responsibility to maintain the stardars by which the community adheres) 
-	- You can have a look at [Code of Conduct](https://github.com/prisma/prisma/blob/master/CODE_OF_CONDUCT.md)
-	- Also can you please edit the post so as to avoid such language ? :)
+    - Hey @username, First of all, We would like to thank you very much for taking the time to share your views on how useful Prisma is for you. We appreciate your enthusiasm, but at the same time as our mission to create and maintain an inclusive, welcoming community we appreciate it more when members refrain from using the strong language in their posts/comments. Can you please edit the post to avoid such strong language :) Also, please join us in making this community welcoming to all. So, let us all grow by following the [Code of Conduct](https://github.com/prisma/prisma/blob/master/CODE_OF_CONDUCT.md).
 
 
 ##### Where you would contact them (for example DM, threaded slack response, etc):
 	- Slack DM
 ##### Why you chose that place to contact them:
-	- Provided the user expressed strong language we can make them aware about the community nature and code of conduct descretely.
+	- Provided the user expressed strong language we can make them aware of the community nature and code of conduct discretely and in a friendly manner.
+
+
+
+
 
 ### Problem: Non-inclusive language
 
-#### Message to the original poster:
-  - Hey @username, 
+Note: @me here refers to the responder.
 
-	- Even though it doesnt sound offensive due to its widespread use while addressing group of people, the word actualy is gendered.
-	- Still when we pay attention to such a detail and refrain ourselves from using such a common term to make the envrionment we work in more inclusive, we start to value other improtant values as we need for a strong and welcoming community.
+#### Message to the original poster:
+  - Hey @username, this is @me. I have a small request/suggestion about a small yet important matter. Even though the use of the word "Guys", doesn't sound wrong due to its widespread use while addressing a mix-gender group of individuals, the word actually is gendered. Still, when we pay attention to such detail and refrain ourselves from using such a common term, we make the environment we work in more inclusive. As part of our community standards and values, we believe in fairness and equality. So please join us in this mission :)
 
 #### Where you would contact them (for example DM, threaded slack response, etc):
 	- Slack DM
 #### Why you chose that place to contact them
-	- Provided the user have used non-inclusive language we can make them aware about the same and educate on the matter in friendly manner. Such matters are always good to be dealt procefessionaly and descretely
+	- Provided the user has used non-inclusive language we can make them aware of the same and educate on the matter in a friendly manner. Such matters are always good to be dealt with professionally and discretely
